@@ -22,7 +22,7 @@
             </router-link>
           </el-col>
           <el-col :span="4" class="text-center">
-            <router-link class="pan-btn green-btn" to="/table/complex-table">
+            <router-link class="pan-btn green-btn" to="/table/nft-table">
               Table
             </router-link>
           </el-col>
